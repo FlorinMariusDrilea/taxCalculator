@@ -1,0 +1,9 @@
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/TaxCalculatorServiceApplication.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/controller/TaxController.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/dto/TaxRequest.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/dto/TaxResponse.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/model/TaxPayer.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/service/RomaniaTaxCalculator.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/service/TaxCalculator.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/service/TaxCalculatorFactory.java
+/Users/florin.drilea/Personal Prj/taxCalculator/taxCalculatorService/src/main/java/com/midnite/taxcalculatorservice/service/UKTaxCalculator.java
